@@ -4,11 +4,11 @@
 - 🌱 Estudando front-end
 - 📫 Contate-me no email: jose857516@gmail.com
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/JoseEliodoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseeliodoro&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliodoro&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div> -->
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
