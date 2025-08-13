@@ -1,7 +1,6 @@
 # OIIIE 👋🏾
 
 - 👨‍🎓 Estudande de Sistemas de informação UFRPE
-- 🌱 Estudando front-end
 - 📫 Contate-me no email: jose857516@gmail.com
 
 <div align="center">
