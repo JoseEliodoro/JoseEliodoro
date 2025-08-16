@@ -2,14 +2,14 @@
 Sou estudante de Tecnologia da Informação e tenho interesse em aprender e me desenvolver na área de desenvolvimento de software, já de participei de vários projetos acadêmicos ligados à análise de dados visuais e textuais, desenvolvimento de plataformas digitais e etc. Gosto de explorar novas ferramentas, entender como a tecnologia pode resolver problemas e colocar em prática o que aprendo.
 
 ## <a href="https://dl.acm.org/doi/10.1145/3680127.3680218" target="_blank">Pesquisa acadêmica</a>
-
+Desenvolvi uma pesquisa focada na coleta e análise automatizada de elementos visuais em postagens de políticos nas redes sociais. Utilizando técnicas de visão computacional, o estudo propôs uma metodologia para analisar imagens publicadas por figuras públicas, identificando padrões visuais recorrentes em seus conteúdos. O principal objetivo foi entender como elementos visuais influenciavam  a interpretação dos dados no tocante ao engajamento da publicação.
 
 <!-- <div align="center">
   <a href="https://github.com/JoseEliodoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseeliodoro&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliodoro&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div> -->
-
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" title="javascritp">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript">
