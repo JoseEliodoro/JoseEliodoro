@@ -1,13 +1,14 @@
-# OIIIE 👋🏾
+## Sobre mim
+Sou estudante de Tecnologia da Informação e tenho interesse em aprender e me desenvolver na área de desenvolvimento de software, já de participei de vários projetos acadêmicos ligados à análise de dados visuais e textuais, desenvolvimento de plataformas digitais e etc. Gosto de explorar novas ferramentas, entender como a tecnologia pode resolver problemas e colocar em prática o que aprendo.
 
-- 👨‍🎓 Estudande de Sistemas de informação UFRPE
-- 📫 Contate-me no email: jose857516@gmail.com
+## <a href="https://dl.acm.org/doi/10.1145/3680127.3680218" target="_blank">Pesquisa acadêmica</a>
 
-<div align="center">
+
+<!-- <div align="center">
   <a href="https://github.com/JoseEliodoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseeliodoro&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliodoro&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" title="javascritp">
